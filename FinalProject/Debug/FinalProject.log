@@ -1,0 +1,15 @@
+﻿  StockAccount_ManasiMehta.cpp
+c:\users\manas\documents\visual studio 2015\projects\finalproject\finalproject\stockaccount_manasimehta.cpp(63): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\manas\documents\visual studio 2015\projects\finalproject\finalproject\stockaccount_manasimehta.cpp(116): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\manas\documents\visual studio 2015\projects\finalproject\finalproject\stockaccount_manasimehta.cpp(181): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  main_ManasiMehta.cpp
+  DoublyLinkedList_ManasiMehta.cpp
+c:\users\manas\documents\visual studio 2015\projects\finalproject\finalproject\doublylinkedlist_manasimehta.cpp(168): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\manas\documents\visual studio 2015\projects\finalproject\finalproject\doublylinkedlist_manasimehta.cpp(185): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\manas\documents\visual studio 2015\projects\finalproject\finalproject\doublylinkedlist_manasimehta.cpp(210): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\manas\documents\visual studio 2015\projects\finalproject\finalproject\doublylinkedlist_manasimehta.cpp(260): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  BankAccount_ManasiMehta.cpp
+  Account_ManasiMehta.cpp
+  Generating Code...
+c:\users\manas\documents\visual studio 2015\projects\finalproject\finalproject\doublylinkedlist_manasimehta.cpp(279): warning C4715: 'DoublyLinkedList::PricePerShare': not all control paths return a value
+LINK : fatal error LNK1104: cannot open file 'kernel32.lib'
